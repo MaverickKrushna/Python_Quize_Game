@@ -1,0 +1,16 @@
+    "Who is an Indian Tech reviewer among these ?"  "a"
+    "Who is the director of RRR movie ?" "a"
+    "Which is the famous dialogue of Pushpa ?" "d",
+    "which avenger turned into a monster from Gamma rays (Marvel Studio)?": "d",
+    "The Super  follows  feature has been introduced by which social media giant ? ": "b",
+    "Burbn social media now days called as ?": "c",
+    "Which online store is widely used for clothes shopping ?": "b",
+    "what led to the sinking of the Titanic ?": "a",
+    "Who amongst these was awarded the Param Vir Chakra ? ": "d",
+    "Python developed in which year ?": "b",
+    "which is the oldest monument in India ?": "c",
+    "Which is the traditional food of west Bengal ? ": "a",
+    "Where was Chhatrapati SHivaji Maharaj Born ?" : "b",
+    "What's the deadlist military Weapon ?" : "d",
+    "WHich two countries were the first to declare war on Germany ? " : "a"
+
